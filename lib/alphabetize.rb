@@ -1,5 +1,4 @@
 def alphabetize(arr)
-  arr.sort do |word|
-  word[0]
+  arr.sort do |a, b|
 end
 end
